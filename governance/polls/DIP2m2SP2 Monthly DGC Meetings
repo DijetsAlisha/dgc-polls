@@ -1,0 +1,37 @@
+# General DIP Template
+
+## Preamble
+```
+DIP#: <--#2m2SP2>
+Title: <Monthly DGC Member Meetings>
+Author(s): <Alisha Ramazannezhad>
+Domain: <All>
+Type: <General>
+Status: <Formal Submission>
+Date Proposed: <2023-06-22>
+Date Ratified: <2023-07-17>
+Notes: <-->
+```
+## References
+
+- A list of supporting materials referenced by this DIP.
+
+## Sentence Summary
+
+- To structure monthly face to face Dijets Governance Council Member meetings as part of the Monthly Governance Cycle.
+
+## Paragraph Summary
+
+- This proposal is for the inclusion of monthly face to face DGC meetings within the monthly governance cycle. The recommendation is that this monthly meeting is held on the first Wednesday of each month (and the first Wednesday of the Governance Cycle) to enable all DGC to meet and discuss any matters arising prior to the DIP formal submission window opens. This allows for discussion on any topic that may have been posted as a sentiment check, but also explores other opportunities amongst Council Members of the future and developments of Dijets.
+
+## Module Summary
+
+- A description of the purpose of each module in the DIP . Suggest 30 words max per module.
+
+## Motivation
+
+- The reason behind this proposal is to provide a structure to communication between the DGC. Whilst the ability to communicate virtually is accessible now, more than ever, the benefits of face to face meetings cannot always be replicated. As we are in the early stages of Dijets, bouncing ideas off one another and ensuring that we are all of the same understanding will be beneficial to the way in which the Council grows. 
+
+## Specification / Proposal Details
+
+- The proposal is for a structure council meeting which will include an agenda and minutes. It will allow for DGC members to add matters arising to the agenda for discussion as well as provide a space for open discussion, innovation and future planning. It will provide a forum for Core Dijets updates to be shared with the Council where appropriate and for continued growth and knowledge of the Dijets Ecosystem to be gained. As there is a process to follow through the existing Governance Cycle for voting on proposals, this meeting does not have to be of 100% attendance at all times, however to enable discussion to be fair amongst membersm the meetings should go ahead with no less than 75% of the DDGC in attendance. The meeting will be held on the first Wednesday of the Governance Cycle between 16:00 - 18:30.
